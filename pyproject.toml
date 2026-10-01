@@ -7,8 +7,8 @@ name = "IPFX"
 dynamic = ["version"]
 description = "Intrinsic Physiology Feature Extractor (IPFX) - tool for computing neuronal features from the intracellular electrophysiological recordings"
 readme = "README.md"
-license = "LicenseRef-Proprietary"
-license-files = ["LICENSE"]
+# license = "LicenseRef-Proprietary"
+# license-files = ["LICENSE"]
 authors = [
     { name = "Allen Institute for Brain Science", email = "Marmot@AllenInstitute.onmicrosoft.com" },
 ]

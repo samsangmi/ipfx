@@ -1,0 +1,7 @@
+# Ignore raw cell data and generated outputs
+data/
+results/
+*.nwb
+*.abf
+*.swc
+*.csv
